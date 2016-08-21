@@ -1,0 +1,5 @@
+C:\Users\Brent\Documents\Visual Studio 2015\Projects\HelloCI\src\app\HelloCI.core\bin\Debug\HelloCI.core.dll
+C:\Users\Brent\Documents\Visual Studio 2015\Projects\HelloCI\src\app\HelloCI.core\bin\Debug\HelloCI.core.pdb
+C:\Users\Brent\Documents\Visual Studio 2015\Projects\HelloCI\src\app\HelloCI.core\obj\Debug\HelloCI.core.csprojResolveAssemblyReference.cache
+C:\Users\Brent\Documents\Visual Studio 2015\Projects\HelloCI\src\app\HelloCI.core\obj\Debug\HelloCI.core.dll
+C:\Users\Brent\Documents\Visual Studio 2015\Projects\HelloCI\src\app\HelloCI.core\obj\Debug\HelloCI.core.pdb
